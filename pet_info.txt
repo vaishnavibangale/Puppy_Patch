@@ -1,0 +1,67 @@
+Siberian Husky
+The Siberian Husky is a medium-sized working sled dog breed. The breed belongs 
+to the Spitz genetic family. It is recognizable by its thickly furred double coat, erect
+ triangular ears, and distinctive markings, and is smaller than the similar-looking Alaskan 
+ Malamute.
+Height:15 inches
+Weight:4 kg
+Gender:Male
+Age:1 Month
+Price:40,000
+********************************************************************************************
+<h3>Chow-Chow</h3>
+            <p>The Chow Chow is a spitz-type dog originally from northern China.The Chow Chow is a sturdily built dog, square in profile, with a broad skull and small, triangular, erect ears with rounded tips. The breed is known for a very dense double coat that is either smooth or rough.</p>
+			<br><h2>Height:16 inches
+			<br>Weight:3.5 kg
+			<br>Gender:Male
+			<br>Age:3 Months
+			<br>Price:45,000 rs<
+*************************************************************************************************
+<h3>German Shephard</h3>
+			<p>The German shepherd dog is a herding breed known for its courage, loyalty and guarding instincts. This breed makes an excellent guard dog, police dog, military dog, guide dog for the blind and search and rescue dog. For many families, the German shepherd is also a treasured family pet.</p>
+			<br><h2>Height:12 inches
+			<br>Weight:6 kg
+			<br>Gender:Female
+			<br>Age:1 Month
+			<br>Price:20,000 rs
+**********************************************************************************************
+ <h3>Rottweiler</h3>
+            <p>The Rottweiler was originally dogs bred to drive cattle to market. Later they were used to pull carts for butchers. They were among the earliest police dogs and serve with honor in the military. Most important, they are popular family guardians and friends.</p>
+            <br><h2>Height:10 inches
+			<br>Weight:7 kg
+			<br>Gender:Male
+			<br>Age:4 Months
+			<br>Price:19,000
+*********************************************************************************************
+ <h3>Shih-tzu</h3>
+            <p>The name “Shih Tzu” means little lion, but there's nothing fierce about this dog breed. This pooch is a lover, not a hunter. Bred solely to be companions, Shih Tzus are affectionate, happy, outgoing house dogs who love nothing more than to follow their people from room to room.</p>
+			<br><h2>Height:15 inches
+			<br>Weight:10 kg
+			<br>Gender:Female
+			<br>Age:3 Months
+			<br>Price:35,000 rs</h2></br>
+**********************************************************************************************
+<div class="content">
+            <h3>Doberman</h3>
+            <p>Doberman pinschers are considered people-oriented dogs that are affectionate and sweet with people, if socialized and trained properly. They are loyal to their owners and are good with children if raised with them; however, some Dobermans bond only to one person.</p>
+            <br><h2>Height:12 inches
+			<br>Weight:4 kg
+			<br>Gender:Female
+			<br>Age:5 Months
+			<br>Price:20,000 rs			
+**********************************************************************************************************
+Saint Bernard
+The Saint Bernard doesn’t want to wear a brandy keg around his neck, but you might be able to train him to bring you a beer. With a heart that’s as kind as his body is big, this lovable giant makes a great family friend and protector. He is sweet, sometimes shy, and often stubborn.</p>
+Height:16 inche
+Weight:5 kg
+Gender:Male
+Age:3 Weeks
+Price:35,000
+***********************************************************************************************
+Golden Retriever
+The Golden Retriever is a Scottish breed of retriever dog of medium size. It is characterised by a gentle and affectionate nature and a striking golden coat. It is commonly kept as a pet and is among the most frequently registered breeds in several Western countries
+Height:7 inches
+Weight:3 kg
+Gender:Female
+Age:2 Weeks
+Price:35,000 rs			
