@@ -33,6 +33,8 @@ if($_SERVER['REQUEST_METHOD']=="POST")
 
     }*/
 
+	echo "$x[0]>0"
+
 if($x[0]>0)
 {
     
