@@ -26,14 +26,12 @@ if($_SERVER['REQUEST_METHOD']=="POST")
 
 //  $res=pg_query($con,"select * from customer");
       
-/*echo "<br><br><br><br>$res";
+echo "<br><br><br><br>$res";
     while($row=pg_fetch_Array($res))
     {
         echo "<br>$row[0]";
 
-    }*/
-
-	echo "$x"
+    }
 
 if($x[0]>0)
 {
