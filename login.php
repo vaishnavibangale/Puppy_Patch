@@ -15,9 +15,9 @@ if(isset($_SESSION['ebcuser']))
 if($_SERVER['REQUEST_METHOD']=="POST")
 {
 
-    $un=$_POST['txtUser'];
-    $ps=$_POST['txtPass'];
-    $ps=md5($ps);
+        $un=$_POST['txtUser'];
+	$ps=$_POST['txtPassword'];
+	$ps=md5($ps);
     
  $res=mysqli_query($con,"select count(*) from customer where cuname='$un' and cpass='$ps'");
 
